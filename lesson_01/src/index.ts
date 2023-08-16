@@ -1,1 +1,1 @@
-let age:Number = 20;
+let age: Number = 20;
